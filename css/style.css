@@ -134,6 +134,18 @@ margin, padding
 }
 
 /* ================================
+2columns
+================================= */
+.wrap ol {
+  list-style-position: inside;
+  -moz-column-count: 2; /* Firefox */
+  -webkit-column-count: 2; /* Safari and Chrome */
+  column-count: 2;
+  list-style-type: decimal;
+  height: 200px;
+}
+
+/* ================================
 Navbar
 ================================= */
 
@@ -529,7 +541,7 @@ Services
 Works
 ================================= */
 .og-grid {
-	list-style: none;
+	list-style: square outside;
 	padding: 20px 0;
 	margin: 0 auto;
 	text-align: center;
