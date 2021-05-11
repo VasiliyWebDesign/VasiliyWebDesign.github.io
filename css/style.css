@@ -24,6 +24,10 @@ body{
 	line-height: 1.6em;
 }
 
+.footer-email {
+  background-image: url("../img/icon-email-footer.svg");
+}
+
 h1 {
 	font-size: 36px;
 }
@@ -88,6 +92,7 @@ button.navbar-toggle {
 	border-color: #999;
 	color: #999;
 }
+
 
 
 /* ================================
@@ -812,6 +817,9 @@ footer a:hover {
 	color: #fff;
 	text-decoration: underline;
 }
+
+
+
 
 /* ================================
 more media queries
