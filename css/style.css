@@ -976,13 +976,13 @@ more media queries
 }
 .tabs>label[for*="3"]:before {
 	content: url(https://vasiliywebdesign.github.io/img/portfolio.png);
-	display: inline-block;
+	
 	width="20";
 	height="20";
 }
 .tabs>label[for*="4"]:before {
         content: url(https://vasiliywebdesign.github.io/img/portfolio.png);
-				display: inline-block;
+
 				 width="14" height="14";
 }
 .tabs>label[for*="5"]:before {
