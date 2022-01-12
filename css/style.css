@@ -13,7 +13,7 @@ Imports
 @import url('overwrite.css');
 @import url('animate.css');
 
-@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
 
 /* ================================
 General
@@ -981,7 +981,7 @@ more media queries
 .tabs>label[for*="4"]:before {
         content: "\f19c";
 
-		
+
 }
 .tabs>label[for*="5"]:before {
         content: "\f19c";
